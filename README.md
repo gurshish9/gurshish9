@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurshish Sarabjit Bedi</h1>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: gurshish.18@gmail.com</h3>
 <p align="left">
 </p>
 
